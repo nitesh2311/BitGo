@@ -1,0 +1,25 @@
+{
+  "name": "bitgo",
+  "version": "1.0.0",
+  "description": "lld",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitesh2311/BitGo.git"
+  },
+  "author": "nitesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitesh2311/BitGo/issues"
+  },
+  "homepage": "https://github.com/nitesh2311/BitGo#readme",
+  "dependencies": {
+    "express": "^4.21.0",
+    "http": "^0.0.1-security",
+    "uuid": "^10.0.0"
+  }
+}
